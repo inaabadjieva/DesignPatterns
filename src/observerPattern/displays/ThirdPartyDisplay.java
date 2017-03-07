@@ -1,4 +1,7 @@
-package observerPattern;
+package observerPattern.displays;
+
+import observerPattern.DisplayElement;
+import observerPattern.Observer;
 
 public class ThirdPartyDisplay implements Observer, DisplayElement {
 

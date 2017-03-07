@@ -1,5 +1,10 @@
 package observerPattern;
 
+import observerPattern.displays.CurrentConditionsDisplay;
+import observerPattern.displays.ForecastDisplay;
+import observerPattern.displays.HeatIndexDisplay;
+import observerPattern.displays.StatisticsDisplay;
+
 public class WeatherStationHeatIndex {
 
     public static void main(String[] args) {
