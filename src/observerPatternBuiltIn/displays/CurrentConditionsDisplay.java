@@ -1,4 +1,7 @@
-package observerPatternBuiltIn;
+package observerPatternBuiltIn.displays;
+
+import observerPatternBuiltIn.DisplayElement;
+import observerPatternBuiltIn.WeatherData;
 
 import java.util.*;
 

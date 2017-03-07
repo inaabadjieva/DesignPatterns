@@ -1,5 +1,9 @@
 package observerPattern;
 
+import observerPattern.displays.CurrentConditionsDisplay;
+import observerPattern.displays.ForecastDisplay;
+import observerPattern.displays.StatisticsDisplay;
+
 public class WeatherStation {
     public static void main(String[] args) {
 

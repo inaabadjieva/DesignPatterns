@@ -1,4 +1,8 @@
-package observerPattern;
+package observerPattern.displays;
+
+import observerPattern.DisplayElement;
+import observerPattern.Observer;
+import observerPattern.WeatherData;
 
 public class StatisticsDisplay implements Observer, DisplayElement {
     private float maxTemp = 0.0f;
