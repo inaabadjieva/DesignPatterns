@@ -1,4 +1,8 @@
-package observerPattern;
+package observerPattern.displays;
+
+import observerPattern.DisplayElement;
+import observerPattern.Observer;
+import observerPattern.Subject;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
     private float temperature;
